@@ -1,0 +1,28 @@
+.footer-ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /**/
+}
+.footer-ul li{
+    float: left;
+}
+.footer-ul li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 14px;
+    text-decoration: none;
+}
+.footer-ul li a:hover{
+    text-decoration: underline;
+}
+.footer-section{
+    margin-top:20px;
+    background-color: #f1f1f1;
+}
+#main{
+    background-color:red
+}
