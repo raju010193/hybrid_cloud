@@ -1,0 +1,70 @@
+C Sharp (programming language)
+From Wikipedia, the free encyclopedia
+Jump to: navigation, search
+This article is about a programming language. For other uses, see C-sharp (disambiguation).
+The correct title of this article is C# (programming language). The substitution or omission of the # sign is because of technical restrictions.
+C# C Sharp wordmark.svg
+Paradigm(s) 	multi-paradigm: structured, imperative, object-oriented, event-driven, functional, generic, reflective, concurrent
+Appeared in 	2000
+Designed by 	Microsoft
+Developer 	Microsoft
+Stable release 	5.0 (August 15, 2012; 7 months ago)
+Typing discipline 	static, dynamic,[1] strong, safe, nominative, partially inferred
+Major implementations 	Visual C#, .NET Framework, Mono, DotGNU
+Dialects 	C?, Spec#, Polyphonic C#
+Influenced by 	C++,[2] Eiffel, Java,[3] Modula-3, Object Pascal[4]
+Influenced 	D, F#, Java,[5] Nemerle, Vala
+Platform 	Common Language Infrastructure
+License 	CLR is proprietary, Mono compiler is dual GPLv3, MIT/X11 and libraries are LGPLv2, DotGNU is dual GPL and LGPLv2
+Usual filename extensions 	.cs
+
+    C Sharp Programming at Wikibooks
+
+C#[note 1] (pronounced see sharp) is a multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines. It was developed by Microsoft within its .NET initiative and later approved as a standard by Ecma (ECMA-334) and ISO (ISO/IEC 23270:2006). C# is one of the programming languages designed for the Common Language Infrastructure.
+
+C# is intended to be a simple, modern, general-purpose, object-oriented programming language.[6] Its development team is led by Anders Hejlsberg. The most recent version is C# 5.0, which was released on August 15, 2012.
+Contents
+
+    1 Design goals
+    2 Name
+    3 History
+        3.1 Versions
+    4 Syntax
+        4.1 Distinguishing features
+    5 Common type system
+        5.1 Categories of data types
+        5.2 Boxing and unboxing
+        5.3 Generics
+    6 Preprocessor
+    7 Code comments
+    8 XML documentation system
+    9 Libraries
+    10 "Hello world" example
+    11 Standardization and licensing
+    12 Implementations
+    13 See also
+    14 Notes
+    15 References
+    16 Further reading
+    17 External links
+
+Design goals
+
+The ECMA standard lists these design goals for C#:[6]
+
+    The C# language is intended to be a simple, modern, general-purpose, object-oriented programming language.
+    The language, and implementations thereof, should provide support for software engineering principles such as strong type checking, array bounds checking, detection of attempts to use uninitialized variables, and automatic garbage collection. Software robustness, durability, and programmer productivity are important.
+    The language is intended for use in developing software components suitable for deployment in distributed environments.
+    Source code portability is very important, as is programmer portability, especially for those programmers already familiar with C and C++.
+    Support for internationalization is very important.
+    C# is intended to be suitable for writing applications for both hosted and embedded systems, ranging from the very large that use sophisticated operating systems, down to the very small having dedicated functions.
+    Although C# applications are intended to be economical with regard to memory and processing power requirements, the language was not intended to compete directly on performance and size with C or assembly language.
+
+Name
+C-sharp musical note (left)
+
+The name "C sharp" was inspired by musical notation where a sharp indicates that the written note should be made a semitone higher in pitch.[7] This is similar to the language name of C++, where "++" indicates that a variable should be incremented by 1.
+
+Due to technical limitations of display (standard fonts, browsers, etc.) and the fact that the sharp symbol (U+266F ? music sharp sign (HTML: &#9839;)) is not present on the standard keyboard, the number sign (U+0023 # number sign (HTML: &#35;)) was chosen to represent the sharp symbol in the written name of the programming language.[8] This convention is reflected in the ECMA-334 C# Language Specification.[6] However, when it is practical to do so (for example, in advertising or in box art[9]), Microsoft uses the intended musical symbol.
+
+The "sharp" suffix has been used by a number of other .NET languages that are variants of existing languages, including J# (a .NET language also designed by Microsoft that is derived from Java 1.1), A# (from Ada), and the functional programming language F#.[10] The original implementation of Eiffel for .NET was called Eiffel#,[11] a name retired since the full Eiffel language is now supported. The suffix has also bee

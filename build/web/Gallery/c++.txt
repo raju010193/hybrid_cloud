@@ -1,0 +1,50 @@
+                             The C++ Programming Language
+
+From Wikipedia, the free encyclopedia
+Jump to: navigation, search
+This article is about the book. For the language itself, see C++.
+The C++ Programming Language
+C plus plus book.jpg
+Cover of the third edition.
+Author(s) 	Bjarne Stroustrup
+Cover artist 	brian gakeadumele
+Language 	English
+Subject(s) 	C++
+Publisher 	Addison–Wesley
+Publication date 	1985 (first edition)
+1991 (second)
+1997 (third)
+2000 (special)
+2013 (fourth)[1]
+ISBN 	020112078 (1st)
+0201539926 (2nd)
+0201889544 (3rd)
+0201700735 (sp.)[1]
+OCLC Number 	59193992
+Dewey Decimal 	005.13/3 19
+LC Classification 	QA76.73.C153 S77 1986
+
+The C++ Programming Language was the first book to describe the C++ programming language, written by the language’s creator, Bjarne Stroustrup, and first published in October 1985. In the absence of an official standard, the book served for several years as the de facto standard for the evolving C++ language until the publication of the ISO/IEC 14882:1998: Programming Language C++ standard on 1 September 1998. As the standard further evolved with the standardization of language and library extensions and with the publication of technical corrigenda, later editions of the book were updated to incorporate the new changes.
+History
+
+The first edition of The C++ Programming Language was published in 1985 (ISBN 978-0201120783). As C++ evolved, a second edition was published in July 1991 (ISBN 978-0201539929), reflecting the changes made.
+
+The current version of The C++ Programming Language, the third edition (ISBN 0201889544), was first published on 30 June 1997; a hardcover version of the third edition, with two new appendices, was later published as The C++ Programming Language: Special Edition (ISBN 0201700735) on 11 February 2000. Both the softcover third edition and the hardcover “special edition” have since undergone several reprintings, with corrections.[2]
+
+C++ Solutions (ISBN 0-201-30965-3) is a companion book to the third edition of The C++ Programming Language. It contains solutions to selected exercises of C++ Solutions.
+
+The fourth edition of the book, which will incorporate C++11, is scheduled to be released on May 20, 2013.[3]
+See also
+
+    C++
+    The Design and Evolution of C++
+    The C Programming Language
+
+References
+
+    ^ a b Stroustrup, Bjarne (2009-01-06). "Books by Bjarne Stroustrup". Bjarne Stroustrup's homepage.
+    ^ Stroustrup, Bjarne (2004-09-08). "The C++ Programming Language (Third Edition and Special Edition)". Bjarne Stroustrup's homepage.
+    ^ Stroustrup, Bjarne (2012-12-09). "The C++ Programming Language (Four Edition)". Amazon Product Page.
+
+
+Stub icon 1 Stub icon 2 	This article about a computer book or series of books is a stub. You can help Wikipedia by expanding it.

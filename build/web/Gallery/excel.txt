@@ -1,0 +1,95 @@
+                                         Microsoft Excel
+
+
+
+
+From Wikipedia, the free encyclopedia
+Jump to: navigation, search
+Microsoft Excel Microsoft Excel 2013 icon.png
+Microsoft Excel 2013 Default Screen.png
+Microsoft Excel 2013 running on Windows 8
+Developer(s) 	Microsoft
+Stable release 	2013 (15.0.4433.1506) / December 11, 2012; 3 months ago
+Operating system 	Microsoft Windows
+Type 	Spreadsheet
+License 	Trialware[1]
+Website 	office.microsoft.com/en-us/excel
+Microsoft Excel for Mac Microsoft Excel 2011 Icon.png
+Microsoft Excel for Mac 2011.png
+Microsoft Excel for Mac 2011 running on Mac OS X Snow Leopard
+Developer(s) 	Microsoft
+Stable release 	2011 (14.1.0.100825) / October 26, 2010; 2 years ago
+Operating system 	Mac OS X
+Type 	Spreadsheet
+License 	Proprietary commercial software
+Website 	www.microsoft.com/mac/excel
+
+Microsoft Excel is a spreadsheet application developed by Microsoft for Microsoft Windows and Mac OS X. It features calculation, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications. It has been a very widely applied spreadsheet for these platforms, especially since version 5 in 1993, and it has replaced Lotus 1-2-3 as the industry standard for spreadsheets. Excel forms part of Microsoft Office.
+Contents
+
+    1 Basic operation
+    2 VBA programming
+    3 Charts
+    4 Using other Windows applications
+    5 Using external data
+    6 Quirks
+        6.1 Statistical functions
+        6.2 Excel MOD function error
+        6.3 Date problems
+        6.4 Filenames
+    7 Numeric precision
+    8 History
+        8.1 Excel 1.0, 1.5, 2.x
+        8.2 Excel 5.0
+        8.3 Excel 95
+        8.4 Excel 97
+        8.5 Excel 2000
+        8.6 Excel XP
+        8.7 Excel 2003
+        8.8 Excel 2007
+        8.9 Excel 2010
+        8.10 Excel 2013
+    9 Versions
+        9.1 Microsoft Windows
+        9.2 Apple Macintosh
+        9.3 OS/2
+    10 Number of rows and columns
+    11 File formats
+        11.1 Binary
+        11.2 XML Spreadsheet
+        11.3 Standard file-extensions
+        11.4 Office Open XML
+    12 Password protection
+    13 Export and migration of spreadsheets
+    14 See also
+    15 References
+    16 General references
+    17 External links
+
+Basic operation
+Main article: Spreadsheet
+
+Microsoft Excel has the basic features of all spreadsheets,[2] using a grid of cells arranged in numbered rows and letter-named columns to organize data manipulations like arithmetic operations. It has a battery of supplied functions to answer statistical, engineering and financial needs. In addition, it can display data as line graphs, histograms and charts, and with a very limited three-dimensional graphical display. It allows sectioning of data to view its dependencies on various factors for different perspectives (using pivot tables and the scenario manager).[3] It has a programming aspect, Visual Basic for Applications, allowing the user to employ a wide variety of numerical methods, for example, for solving differential equations of mathematical physics,[4][5] and then reporting the results back to the spreadsheet. It also has a variety of interactive features allowing user interfaces that can completely hide the spreadsheet from the user, so the spreadsheet presents itself as a so-called application, or decision support system (DSS), via a custom-designed user interface, for example, a stock analyzer,[6] or in general, as a design tool that asks the user questions and provides answers and reports.[7][8][9] In a more elaborate realization, an Excel application can automatically poll external databases and measuring instruments using an update schedule,[10] analyze the results, make a Word report or Power Point slide show, and e-mail these presentations on a regular basis to a list of participants.
+Use of a user-defined function sq(x) in Microsoft Excel. The named variables x & y are identified in the Name Manager. The function sq is introduced using the Visual Basic editor supplied with Excel.
+Subroutine in Excel calculates the square of named column variable x read from the spreadsheet, and writes it into the named column variable y.
+Graph made using Microsoft Excel
+
+Microsoft allows for a number of optional command-line switches to control the manner in which Excel starts.[11]
+VBA programming
+Main article: Visual basic for applications
+
+The Windows version of Excel supports programming through Microsoft's Visual Basic for Applications (VBA), which is a dialect of Visual Basic. Programming with VBA allows spreadsheet manipulation that is awkward or impossible with standard spreadsheet techniques. Programmers may write code directly using the Visual Basic Editor (VBE), which includes a window for writing code, debugging code, and code module organization environment. The user can implement numerical methods as well as automating tasks such as formatting or data organization in VBA[12] and guide the calculation using any desired intermediate results reported back to the spreadsheet.
+
+VBA was removed from Mac Excel 2008, as the developers did not believe that a timely release would allow porting the VBA engine natively to Mac OS X. VBA was restored in the next version, Mac Excel 2011.[13]
+
+A common and easy way to generate VBA code is by using the Macro Recorder.[14] The Macro Recorder records actions of the user and generates VBA code in the form of a macro. These actions can then be repeated automatically by running the macro. The macros can also be linked to different trigger types like keyboard shortcuts, a command button or a graphic. The actions in the macro can be executed from these trigger types or from the generic toolbar options. The VBA code of the macro can also be edited in the VBE. Certain features such as loop functions and screen prompts by their own properties, and some graphical display items, cannot be recorded, but must be entered into the VBA module directly by the programmer. Advanced users can employ user prompts to create an interactive program, or react to events such as sheets being loaded or changed.
+
+Users should be aware that using Macro Recorded code may not be compatible from one version of Excel to another. Some code that is used in Excel 2010 can not be used in Excel 2003. Making a Macro that changes the cell colors and making changes to other aspects of cells may not be backward compatible.
+
+VBA code interacts with the spreadsheet through the Excel Object Model,[15] a vocabulary identifying spreadsheet objects, and a set of supplied functions or methods that enable reading and writing to the spreadsheet and interaction with its users (for example, through custom toolbars or command bars and message boxes). User-created VBA subroutines execute these actions and operate like macros generated using the macro recorder, but are more flexible and efficient.
+Charts
+
+Excel supports charts, graphs, or histograms generated from specified groups of cells. The generated graphic component can either be embedded within the current sheet, or added as a separate object.
+
+These displays are dynamically updated if the content of cells change. For example, suppose that the important design requirements are displayed visually; then, in response to a user's change in trial values for parameters, the curves describing the design change shape, and their points of intersection shift, assisting the selection of the best design.
+Using other Windows applications

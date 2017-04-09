@@ -1,0 +1,30 @@
+                                             JSP 
+
+Getting Familiar with your JSP server
+If you do not have a JSP capable web-server or application server, the first step is to download one.  There are many such servers available, most of which can be downloaded for free evaluation and/or development.  Some of them are:
+
+    Blazix from Desiderata Software (1.5 Megabytes, JSP, Servlets and EJBs)
+    TomCat from Apache (Approx 6 Megabytes)
+    WebLogic from BEA Systems (Approx 40 Megabytes, JSP, Servlets and EJBs)
+    WebSphere from IBM (Approx 100 Megabytes, JSP, Servlets and EJBs)
+
+To take the best advantage of this tutorial, it recommended that all the material should be tried out with a real server.  
+
+Once you have a JSP capable web-server or application server, you need to know the following information about it:
+
+    Where to place the files
+    How to access the files from your browser (with an http: prefix, not as file:)
+
+You should be able to create a simple file, such as
+
+    <HTML>
+    <BODY>
+    Hello, world
+    </BODY>
+    </HTML>
+
+know where to place this file and how to see it in your browser with an http:// prefix.
+
+Since this step is different for each web-server, you would need to see the web-server documentation to find out how this is done.  Once you have completed this step, proceed to the next tutorial.
+ 
+Next tutorial: Your first JSP page

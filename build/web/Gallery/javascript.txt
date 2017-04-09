@@ -1,0 +1,57 @@
+
+                                              JavaScript 
+
+
+JavaScript is the most popular scripting language in the world. It is the standard language used in web pages, but it is also widely used by desktop apps, mobile phone apps, and internet servers.
+What You Should Already Know
+
+Before you continue you should have a basic understanding of the following:
+
+    HTML and CSS
+
+If you want to study these subjects first, find the tutorials on our Home page.
+What is JavaScript?
+
+    JavaScript is a scripting language
+    JavaScript was designed to add interactivity to HTML pages
+
+What is a Scripting Language?
+
+A scripting language is a lightweight programming language that supports the writing of scripts.
+
+Scripts are code lines that can be interpreted and executed "on-the-fly", without explicit compile and link steps.
+What can JavaScript do?
+
+JavaScript gives HTML designers a programming tool
+HTML editors are normally not programmers, but JavaScript is a language with a very simple syntax. Almost anyone can put small "snippets" of JavaScript code into HTML pages.
+
+JavaScript can manipulate HTML
+JavaScript can both read and change the content of HTML elements.
+
+JavaScript can manipulate CSS
+JavaScript can both read and change the style of HTML elements.
+
+JavaScript can validate data
+JavaScript can be used to validate data, like validating forms input.
+
+JavaScript can store data
+JavaScript can be used to store and retrieve information on the visitor's computer.
+
+JavaScript can react to events
+JavaScript can be set to execute when something happens, like when a user clicks on an HTML element.
+JavaScript vs. Java
+
+JavaScript and Java are two completely different languages, in both concept and design.
+
+Java (developed by Sun Microsystems) is a complex programming language in the same category as C and C++.
+JavaScript = ECMAScript
+
+ECMA-262 is the official JavaScript standard.
+
+JavaScript was invented by Brendan Eich at Netscape, and first appeared in Netscape Navigator (a no longer existing web browser) in1995. First it was called Mocha, then LiveScript, and finally JavaScript.
+
+The JavaScript standard was adopted by the industry standard association ECMA in 1997.
+
+The standard (called ECMAScript-262) was approved as an international ISO standard in 1998.
+
+The development of ECMAScript is still in process.
